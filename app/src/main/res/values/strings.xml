@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_description">Lets the floating button lock your screen like the power button. It does not read or collect anything.</string>
+</resources>
